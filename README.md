@@ -1,10 +1,9 @@
 # Bike Share with Python
 
 ## Overview
-This repository contains a comprehensive analysis of bike share usage data. The analysis explores several facets of the data, including ride durations, user types, and temporal trends in bike usage.
+This repository presents a thorough analysis of bike share usage data. The analysis examines various aspects of the data, such as ride durations, user types, and temporal trends in bike usage.
 
-## Dataset
-The dataset consists of bike ride records spanning various months, capturing details about each ride, such as start and end times, ride duration, start and end station names, types of bikes used, and whether the user is a casual rider or a member.
+The dataset includes records of bike rides that occurred over several months. These records contain information about each ride, such as its start and end times, duration, start and end station names, types of bikes used, and whether the user was a casual rider or a member.
 
 ## Methodology
 The analysis involves data cleaning, exploratory data analysis (EDA), visualization, statistical testing, and time series decomposition to uncover underlying patterns and trends. The following key steps were taken:
